@@ -100,7 +100,7 @@ Type-C 供电时 D6 阳极 0V、阴极 4.98V，实测证明 5V 不会经 Buck �
 │   ├── Schematic/       # 原理图 PDF
 │   ├── Images/          # PCB 与原理图 PNG
 │   └── BOM/             # 物料清单（含嘉立创下单 BOM）
-├── Docs/                # PCB 焊接指南、布局布线规则总结
+├── Docs/                # PCB 焊接指南
 └── Verification/        # 测试记录（实测数据与分析）
 ```
 

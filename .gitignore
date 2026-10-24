@@ -4,3 +4,6 @@ desktop.ini
 .DS_Store
 *.tmp
 ~$*
+
+# 面试准备资料（不上传）
+/Docs/PCB布局布线规则总结_电源模块实战与面试高频.docx
